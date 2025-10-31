@@ -1,5 +1,7 @@
 
 ---
+![image](https://github.com/EN1020/IOT_HTML_Dashboard/blob/main/IOT_HTML_Dashboard.jpg?raw=true)
+
 
 # 🌐 IoT HTML Dashboard
 
